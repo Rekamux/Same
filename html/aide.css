@@ -1,0 +1,32 @@
+h1
+{
+	text-align:center;
+	color: red;
+}
+
+.important
+{
+	font-size: large;
+	font: bold;
+}
+
+ul
+{
+	margin: 10px;
+}
+
+ul li ul
+{
+	margin: 15px;
+}
+
+li
+{
+	margin: 5px;
+}
+
+.centre
+{
+	text-align:center;
+}
+
